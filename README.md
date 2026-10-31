@@ -79,6 +79,9 @@ Database connected successfully
 Server Running at http://localhost:3000/
 ```
 
+**LIVE LINK** : https://bdf-saikumar.onrender.com/
+**GIT CLONE** :https://github.com/chikotisaikumar08-tech/BDF-lab-02.git
+
 ## 6. Database Details
 
 Database Name: `database.db`
